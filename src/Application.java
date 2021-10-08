@@ -67,4 +67,7 @@ public class Application {
   
   System.out.println("Total Characters: " + totalCharacters + " / " + names.length + " = " + ((float) totalCharacters / names.length));
 }
+  
+  
+  //adding new data to test
 }
